@@ -1,0 +1,1 @@
+#include "SDLHardwareImage.h"
